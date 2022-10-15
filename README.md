@@ -22,3 +22,5 @@ void main()
 *
 *    printf("\nThis is the basic ( program");
 *    }
+import requests
+import cv2
