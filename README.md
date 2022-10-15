@@ -15,3 +15,10 @@ void main()
   
   print f("\nThis is the basic (program");
   }
+-2,4,-2,6
+ void main ()
+ {
+   printf("Hellow World...!!!");
+*
+*    printf("\nThis is the basic ( program");
+*    }
